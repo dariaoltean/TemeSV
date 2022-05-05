@@ -1,0 +1,61 @@
+.titlu{
+    color:rgb(58, 216, 231); 
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.titlu1{
+    color:rgb(236, 192, 139);
+}
+p{
+    font-size: 18px;
+    
+}
+.titluF{
+    color: rgb(58, 216, 231);
+    font-size: 30px;
+}
+.titlu2{
+    color: rgb(180, 241, 88);
+    font-size: 25px;
+    
+}
+.titlu4{
+    color:rgb(226, 175, 81);
+    font-size: 25px;
+}
+.titlu3C{
+    color: rgb(236, 192, 139);
+    font-size: 20px;
+}
+.titluS{
+    font-size: 30px;
+    color: rgb(58, 216, 231);
+}
+.fluture{
+    border: 5px solid rgb(240, 222, 151)
+}
+.ciclu{
+    border: 5px solid rgb(240, 222, 151)
+}
+.brimstone{
+    border: 5px solid rgb(232, 169, 232)
+}
+.monarh{
+    border: 5px solid rgb(214, 177, 108)
+}
+.curiozitati{
+    border: 5px solid rgb(232, 232, 108)
+}
+.curiozitati1{
+    font-size: 18px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.Originea{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.TitleS{
+    margin-top: 30px;
+}
